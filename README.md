@@ -9,9 +9,10 @@ on the bestbuy.ca website. This script will run indefinitely and check the avail
 
 Terminal: 
 
-![image](https://github.com/Kevinrivas96/Web_Scraping/assets/99252792/0713989e-a6e7-4581-8dff-bbd632b47a37)
+![image](https://github.com/Kevinrivas96/Web_Scraping_Bot/assets/99252792/4dd785ed-6112-4dc6-86a5-2eca0e747eb8)
 
 Product Page: 
 
-![image](https://github.com/Kevinrivas96/Web_Scraping/assets/99252792/a0f805d3-cb82-4062-b833-ee793015da94)
+![image](https://github.com/Kevinrivas96/Web_Scraping_Bot/assets/99252792/611710d0-2ef7-4298-95be-9237a5321ddc)
+
 
